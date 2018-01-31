@@ -1,5 +1,8 @@
 package org.ravi.helloworld;
 
+/*
+* This is Hello-world class
+*/
 public class Hello {
 	private String user = "Bhushan";
 	public String displayHelloMessage(){
